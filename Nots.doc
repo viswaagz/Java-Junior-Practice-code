@@ -1,1 +1,14 @@
 
+Declaring a variable
+When we declare a variable, we should also specify what type of variable it is. This is known as data type, basically meaning what type of data we are going to store in a variable. Each data type has a specific size in memory and a range of values that it can represent.
+
+Here are all the major data types and what they store in Java:
+
+Data Type	Description	Example Declaration
+int	Stores whole numbers	int c = 100000;
+long	Stores big whole numbers	long d = 100000L;
+float	Stores small decimal numbers	float e = 10.5;
+double	Stores big decimal numbers	double f = 10.5;
+char	Stores single characters	char g = 'A';
+boolean	true or false value	boolean h = true;
+String	Stores text (a sequence of characters)	String i = "Hello";
